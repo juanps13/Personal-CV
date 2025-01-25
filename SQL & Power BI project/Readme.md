@@ -2,6 +2,8 @@
 
 In this project the dataset "hotel revenue" was analyzed using SQL and Power BI. All the files are accesible so that anyone can reproduce my analysis.
 
+The file "hotel_revenue_full.xlsx" contains the original raw data. The csv files (uploaded to the "raw_data" folder) contains the data after the Data Preparation step.
+
 ## Steps
 
 1. Data preparation (Excel)
@@ -28,3 +30,28 @@ The following files can be found in the SQL folder:
 4. hotel_revenue_working_querys: contains the script with the analysis of the dataset.
 
 All the files contain explanations of the steps followed. 
+
+## Power BI Dashboard
+
+![alt text](dashboard.png)
+
+### Tables Connections
+
+![alt text](tables_connections.png)
+
+[Hotel_revenue market_segment](segment) -> [Hotel_revenue revenue_total](market_segment)
+[Hotel_revenue meal_cost](meal) -> [Hotel_revenue revenue_total](cost)
+
+### Measures and calculated columns
+
+1. Measure - NetProfit
+![alt text](measure_net_profit.png)
+
+2. Column - Date
+![alt text](column_date.png)
+
+3. Column - NetProfit_column
+![alt text](column_net_profit.png)
+
+4. Column - total_nights
+![alt text](image.png)
