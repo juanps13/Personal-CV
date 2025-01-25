@@ -33,7 +33,7 @@ All the files contain explanations of the steps followed.
 
 ## Power BI Dashboard
 
-![alt text](dashboard.png)
+![alt text](power_bi_dashboard/dashboard.png)
 
 ### Tables Connections
 
