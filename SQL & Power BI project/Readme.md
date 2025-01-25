@@ -37,21 +37,30 @@ All the files contain explanations of the steps followed.
 
 ### Tables Connections
 
+The following connections were made.
+
 ![alt text](power_bi_dashboard/tables_connections.png)
 
 \[Hotel_revenue market_segment](segment) -> \[Hotel_revenue revenue_total](market_segment)
+
 \[Hotel_revenue meal_cost](meal) -> \[Hotel_revenue revenue_total](cost)
 
 ### Measures and calculated columns
 
+The following measures and columns were created.
+
 1. Measure - NetProfit
+
 ![alt text](power_bi_dashboard/measure_net_profit.png)
 
 2. Column - Date
+
 ![alt text](power_bi_dashboard/column_date.png)
 
 3. Column - NetProfit_column
+
 ![alt text](power_bi_dashboard/column_net_profit.png)
 
 4. Column - total_nights
-![alt text](power_bi_dashboard/image.png)
+
+![alt text](power_bi_dashboard/column_total_nights.png)
