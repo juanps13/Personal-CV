@@ -1,8 +1,8 @@
 # Hotel Revenue project
 
-In this project the dataset "hotel revenue" was analyzed using SQL and Power BI. All the files are accesible so that anyone can reproduce my analysis.
+In this project, I analysed the dataset 'hotel_revenue' utilizing Excel, SQL and Power BI. All necessary files are available to enable the reproducibility of my analysis.
 
-The file "hotel_revenue_full.xlsx" contains the original raw data. The csv files (uploaded to the "raw_data" folder) contains the data after the Data Preparation step.
+The original raw data is contained within the 'hotel_revenue_full.xlsx' file. The 'raw_data' folder contains CSV files with the data after the data preparation stage.
 
 ## Steps
 
@@ -16,20 +16,20 @@ The file "hotel_revenue_full.xlsx" contains the original raw data. The csv files
 ## Data Preparation
 
 1. Split the original .xlsx file into 5 separate .csv files
-2. Replace the "NULL" and "NA" values in the files with blank cells (using "replace" tool in Excel)
-3. Change the "," in decimal numbers with "."
-4. Change data format for YYYY-MM-DD (using "format cell" tool)
-5. Check which number columns in the files contains empty cells (this will be important when updalong the data to the SQL database)
+2. Replace the "NULL" and "NA" values with blank cells (using "replace" tool in Excel)
+3. Replace commas (,) with periods (.) in all decimal numbers.
+4. Format date columns as YYYY-MM-DD (using "format cell" tool)
+5. Check which number columns in the files contain empty cells (this will be important when loading the data into the SQL database).
 
 ## SQL
 
 The following files can be found in the SQL folder:
-1. hotel_revenue_database_definition: conatins the script with the database definition
-2. hotel_revenue_data_load: cointains the script to load the data into the database (make sure to select the folder path where you saved the raw data)
-3. hotel_revenue_cleaning: contains the data cleaning querys of this project
-4. hotel_revenue_working_querys: contains the script with the analysis of the dataset.
+1. hotel_revenue_database_definition: Contains the script for defining the database.
+2. hotel_revenue_data_load: Contains the script for loading data into the database (ensure you select the correct folder path for the raw data).
+3. hotel_revenue_cleaning: Contains the data cleaning queries (that must be executed before the next stage).
+4. hotel_revenue_working_querys: Contains the analysis queries.
 
-All the files contain explanations of the steps followed. 
+Detailed explanations of the steps followed are provided within each file.
 
 ## Power BI Dashboard
 
