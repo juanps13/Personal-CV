@@ -49,7 +49,7 @@ Overview of the dashboard:
 
 The following connections were made.
 
-![alt text](04.%20images/tables_connections.png)
+![alt text](05.%20images/tables_connections.png)
 
 \[Hotel_revenue market_segment](segment) -> \[Hotel_revenue revenue_total](market_segment)
 
@@ -61,23 +61,23 @@ The following measures and columns were created.
 
 1. Measure - NetProfit
 
-![alt text](04.%20images/measure_net_profit.png)
+![alt text](05.%20images/measure_net_profit.png)
 
 2. Column - Date
 
-![alt text](04.%20images/column_date.png)
+![alt text](05.%20images/column_date.png)
 
 3. Column - NetProfit_column
 
-![alt text](04.%20images/column_net_profit.png)
+![alt text](05.%20images/column_net_profit.png)
 
 4. Column - total_nights
 
-![alt text](04.%20images/column_total_nights.png)
+![alt text](05.%20images/column_total_nights.png)
 
 5. Column - meal_cost
 
-![alt text](04.%20images/column_meal_cost.png)
+![alt text](05.%20images/column_meal_cost.png)
 
 ## PPT Presentation
 
