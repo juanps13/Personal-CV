@@ -30,6 +30,8 @@ Steps:
 
 In order to clearly present the findings, Power BI was used to build the graphs.
 
+The file loaded in Power BI was exported from python with some columns added. Please see python code for details.
+
 ## Presentation
 
 ![alt text](images/ppt1.png)
