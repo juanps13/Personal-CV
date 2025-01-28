@@ -13,3 +13,21 @@ id: unique customer identifier
 may: monthly bill in dollars for each customer in May 2014
 
 august: monthly bill in dollars for each customer in August 2014
+
+## Data analysis
+
+All the steps can be found with more detail in the python code.
+
+Steps:
+1. Data cleaning (check for duplicates, missing values and data inconsistency)
+2. Data exploration (calculate the mean, standard deviation and other useful metrics)
+3. Test normal distributions
+4. Perform T-test for paired samples
+5. Create clusters with K-means method (also choose the optimal cluster number)
+6. Perform Wilcoxon test for the mean of each cluster (since the distribution of the clusters data was not normal, t-test could not be used)
+
+## Build graphs with Power BI
+
+In order to clearly present the findings, Power BI was used to build the graphs.
+
+## Presentation
