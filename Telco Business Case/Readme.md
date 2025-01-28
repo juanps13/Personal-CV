@@ -31,3 +31,5 @@ Steps:
 In order to clearly present the findings, Power BI was used to build the graphs.
 
 ## Presentation
+
+![alt text](images/ppt1.png)
