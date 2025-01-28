@@ -21,9 +21,9 @@ All the steps can be found with more detail in the python code.
 Steps:
 1. Data cleaning (check for duplicates, missing values and data inconsistency)
 2. Data exploration (calculate the mean, standard deviation and other useful metrics)
-3. Test normal distributions
+3. Test normal distributions (with graphs and Shapiro test)
 4. Perform T-test for paired samples
-5. Create clusters with K-means method (also choose the optimal cluster number)
+5. Create clusters with K-means method (also choose the optimal cluster number with elbow method)
 6. Perform Wilcoxon test for the mean of each cluster (since the distribution of the clusters data was not normal, t-test could not be used)
 
 ## Build graphs with Power BI
