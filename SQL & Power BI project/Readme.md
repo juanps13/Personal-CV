@@ -81,8 +81,8 @@ The following measures and columns were created.
 
 ## PPT Presentation
 
-![alt text](04.%20images/ppt1.png)
-![alt text](04.%20images/ppt2.png)
-![alt text](04.%20images/ppt3.png)
-![alt text](04.%20images/ppt4.png)
-![alt text](04.%20images/ppt5.png)
+![alt text](05.%20images/ppt1.png)
+![alt text](05.%20images/ppt2.png)
+![alt text](05.%20images/ppt3.png)
+![alt text](05.%20images/ppt4.png)
+![alt text](05.%20images/ppt5.png)
