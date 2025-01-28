@@ -4,6 +4,12 @@ In this project, I analysed the dataset 'hotel_revenue' utilizing Excel, SQL and
 
 The original raw data is contained within the 'hotel_revenue_full.xlsx' file. The 'raw_data' folder contains CSV files with the data after the data preparation stage.
 
+## Problem statement
+
+1. Is the total hotel revenue growing by year?
+2. Which is the most profitable market segment?
+3. Which type of guests are staying in the hotel?
+
 ## Steps
 
 1. Data preparation (Excel)
@@ -12,6 +18,7 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
    - Data cleaning
    - Data analysis
 4. Dashboard creation (Power BI)
+5. PPT presentation
 
 ## Data Preparation
 
@@ -33,13 +40,16 @@ Detailed explanations of the steps followed are provided within each file.
 
 ## Power BI Dashboard
 
-![alt text](power_bi_dashboard/dashboard.png)
+Overview of the dashboard:
+
+![alt text](04.%20images/dashboard.png)
+![alt text](04.%20images/dashboard2.png)
 
 ### Tables Connections
 
 The following connections were made.
 
-![alt text](power_bi_dashboard/tables_connections.png)
+![alt text](04.%20images/tables_connections.png)
 
 \[Hotel_revenue market_segment](segment) -> \[Hotel_revenue revenue_total](market_segment)
 
@@ -51,16 +61,24 @@ The following measures and columns were created.
 
 1. Measure - NetProfit
 
-![alt text](power_bi_dashboard/measure_net_profit.png)
+![alt text](04.%20images/measure_net_profit.png)
 
 2. Column - Date
 
-![alt text](power_bi_dashboard/column_date.png)
+![alt text](04.%20images/column_date.png)
 
 3. Column - NetProfit_column
 
-![alt text](power_bi_dashboard/column_net_profit.png)
+![alt text](04.%20images/column_net_profit.png)
 
 4. Column - total_nights
 
-![alt text](power_bi_dashboard/column_total_nights.png)
+![alt text](04.%20images/column_total_nights.png)
+
+5. Column - meal_cost
+
+![alt text](04.%20images/column_meal_cost.png)
+
+## PPT Presentation
+
+![alt text](04.%20images/ppt1.png)

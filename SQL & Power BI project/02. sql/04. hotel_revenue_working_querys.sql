@@ -1,5 +1,5 @@
 /* --- PART 1--- */
-/* The main question we're trying to answer is if the total revenue is growing by year */
+/* The first question is if the total revenue is growing by year */
 
 /* Query #1 - Revenue per year*/
 
@@ -13,7 +13,7 @@ GROUP BY arrival_date_year;
 However, we're not taking into account the cancelled reservations, discunts, meal costs and 
 other issues that should be included in the analysis.*/
 
-/*The first question we should ask is whether we have data for the complete three years or only for certain months." */
+/*First, we're going to check weather we have data for the complete three years or only for certain months." */
 
 /* Query #2 - Explore years and months of the data */
 
@@ -50,11 +50,11 @@ ON revenue_total.meal = meal_cost.meal
 WHERE is_canceled = 0
 GROUP BY date_ym;
 
-/* Earnings seem to be increasing year-over-year; with this table, a graph can be created to reflect this information clearly. */
+/* Earnings seem to be increasing year-over-year; with Power BI will make a graph to add to the presentation to show this. */
 
 /* --- PART 2 : Market segmentation --- */
 
-/* Another question that can be asked is which are the more profitable market segments
+/* The second question is which are the most profitable market segments
 First, we will check which segment has more cancelation rate and then which is the most profitable. */
 
 /* Query #5 - Identify market segments with more cancellation rates */
@@ -96,7 +96,7 @@ ORDER BY average_revenue DESC;
 
 /* --- PART 3 : Type of guests --- */
 
-/* WE will classify the type guests.
+/* The guests will be classified as follows:
 If the reservation has children or babies then it's "family",
 If the reservation is for only one adult, then is "single",
 if the reservation is for two adults, then is "couple",
@@ -116,3 +116,5 @@ SET guest_type =
     WHEN adults = 2 THEN 'couple'
     ELSE 'group'
 END;
+
+/* Now that we have explored the dataset and added the necessary columns, we can create the dashboard and the final presentation */
