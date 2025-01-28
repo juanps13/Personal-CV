@@ -42,8 +42,8 @@ Detailed explanations of the steps followed are provided within each file.
 
 Overview of the dashboard:
 
-![alt text](04.%20images/dashboard.png)
-![alt text](04.%20images/dashboard2.png)
+![alt text](05.%20images/dashboard.png)
+![alt text](05.%20images/dashboard2.png)
 
 ### Tables Connections
 
