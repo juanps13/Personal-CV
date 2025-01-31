@@ -22,7 +22,7 @@ The project focused on analyzing hotel reservation data to assess revenue perfor
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-### Telecommunications Business Case
+### [Telecommunications Business Case](https://github.com/juanps13/Personal-CV/tree/main/02.%20Telecommunications%20Business%20Case)
 
 The project focused on evaluating the impact of a promotional campaign within a telecommunications company.
 
