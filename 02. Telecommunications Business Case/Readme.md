@@ -2,7 +2,7 @@
 
 ## Index
 
-[01. problem statement](#01-problem-statement)
+[01. Problem statement](#01-problem-statement)
 
 [02. Variables](#02-variables)
 
@@ -28,7 +28,7 @@ august: monthly bill in dollars for each customer in August 2014
 
 ## 03. Data analysis & clustering
 
-All the steps can be found with more detail in the python code.
+All the steps can be found with more detail in the [python code.](https://github.com/juanps13/Personal-CV/blob/main/02.%20Telecommunications%20Business%20Case/02.%20python_code.ipynb)
 
 Steps:
 1. Data cleaning (check for duplicates, missing values and data inconsistency)
