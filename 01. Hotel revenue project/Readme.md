@@ -54,7 +54,7 @@ The following files can be found in the SQL folder:
 3. hotel_revenue_cleaning: Contains the data cleaning queries (that must be executed before the next stage).
 4. hotel_revenue_working_querys: Contains the analysis queries.
 
-Detailed explanations of the steps followed are provided within each file.
+Detailed explanations of the steps followed are provided within each file. [Go to SQL Folder.](https://github.com/juanps13/Personal-CV/tree/main/01.%20Hotel%20revenue%20project/02.%20sql)
 
 ## 05. Power BI Dashboard
 
