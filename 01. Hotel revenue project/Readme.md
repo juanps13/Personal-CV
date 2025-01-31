@@ -6,29 +6,29 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
 
 # Index
 
-[01. Problem statement](#problem-statement)
+[01. Problem statement](#01-problem-statement)
 
-[02. Steps](#steps)
+[02. Steps](#02-steps)
 
-[03. Data preparation](#data-preparation)
+[03. Data preparation](#03-data-preparation)
 
-[04. SQL](#sql)
+[04. SQL](#04-sql)
 
-[05. Power BI Dashboard](#power-bi-dashboard)
+[05. Power BI Dashboard](#05-power-bi-dashboard)
 
-   [a. Tables connections](#tables-connections)
+: [a. Tables connections](#tables-connections)
 
-   [b. Measures and calculated columns](#measures-and-calculated-columns)
+: [b. Measures and calculated columns](#measures-and-calculated-columns)
 
-[06. PPT Presentation](#ppt-presentation)
+[06. PPT Presentation](#06-ppt-presentation)
 
-## Problem statement
+## 01. Problem statement
 
 1. Is the total hotel revenue growing by year?
 2. Which is the most profitable market segment?
 3. Which type of guests are staying in the hotel?
 
-## Steps
+## 02. Steps
 
 1. Data preparation (Excel)
 2. SQL
@@ -38,7 +38,7 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
 4. Dashboard creation (Power BI)
 5. PPT presentation
 
-## Data Preparation
+## 03. Data Preparation
 
 1. Split the original .xlsx file into 5 separate .csv files
 2. Replace the "NULL" and "NA" values with blank cells (using "replace" tool in Excel)
@@ -46,7 +46,7 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
 4. Format date columns as YYYY-MM-DD (using "format cell" tool)
 5. Check which number columns in the files contain empty cells (this will be important when loading the data into the SQL database).
 
-## SQL
+## 04. SQL
 
 The following files can be found in the SQL folder:
 1. hotel_revenue_database_definition: Contains the script for defining the database.
@@ -56,7 +56,7 @@ The following files can be found in the SQL folder:
 
 Detailed explanations of the steps followed are provided within each file.
 
-## Power BI Dashboard
+## 05. Power BI Dashboard
 
 Overview of the dashboard:
 
@@ -97,7 +97,7 @@ The following measures and columns were created.
 
 ![alt text](05.%20images/column_meal_cost.png)
 
-## PPT Presentation
+## 06. PPT Presentation
 
 ![alt text](05.%20images/ppt1.png)
 ![alt text](05.%20images/ppt2.png)
