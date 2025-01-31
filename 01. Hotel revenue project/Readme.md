@@ -4,6 +4,17 @@ In this project, I analysed the dataset 'hotel_revenue' utilizing Excel, SQL and
 
 The original raw data is contained within the 'hotel_revenue_full.xlsx' file. The 'raw_data' folder contains CSV files with the data after the data preparation stage.
 
+# Index
+
+[01. Problem statement](#problem-statement)
+[02. Steps](#steps)
+[03. Data preparation](#data-preparation)
+[04. SQL](#sql)
+[05. Power BI Dashboard](#power-bi-dashboard)
+   [a. Tables connections](#tables-connections)
+   [b. Measures and calculated columns](#measures-and-calculated-columns)
+[06. PPT Presentation](#ppt-presentation)
+
 ## Problem statement
 
 1. Is the total hotel revenue growing by year?
