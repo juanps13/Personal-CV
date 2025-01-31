@@ -7,12 +7,19 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
 # Index
 
 [01. Problem statement](#problem-statement)
+
 [02. Steps](#steps)
+
 [03. Data preparation](#data-preparation)
+
 [04. SQL](#sql)
+
 [05. Power BI Dashboard](#power-bi-dashboard)
+
    [a. Tables connections](#tables-connections)
+
    [b. Measures and calculated columns](#measures-and-calculated-columns)
+
 [06. PPT Presentation](#ppt-presentation)
 
 ## Problem statement
