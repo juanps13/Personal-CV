@@ -12,7 +12,7 @@ juanpfernandez13@gmail.com
 
 ## Summary
 
-### Hotel Revenue Project
+### [Hotel Revenue Project](https://github.com/juanps13/Personal-CV/tree/main/01.%20Hotel%20revenue%20project)
 
 The project focused on analyzing hotel reservation data to assess revenue performance within a hotel chain.
 
