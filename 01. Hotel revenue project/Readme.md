@@ -16,9 +16,9 @@ The original raw data is contained within the 'hotel_revenue_full.xlsx' file. Th
 
 [05. Power BI Dashboard](#05-power-bi-dashboard)
 
-: [a. Tables connections](#tables-connections)
+    [a. Tables connections](#tables-connections)
 
-: [b. Measures and calculated columns](#measures-and-calculated-columns)
+    [b. Measures and calculated columns](#measures-and-calculated-columns)
 
 [06. PPT Presentation](#06-ppt-presentation)
 
