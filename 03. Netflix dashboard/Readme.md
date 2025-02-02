@@ -22,36 +22,36 @@ Raw data and dashboard are available to download.
 
 ## 02. Dashboard
 
-![alt text](images/dashboard1.png.png)
+![alt text](images/dashboard1.png)
 
-![alt text](images/dashboard2.png.png)
+![alt text](images/dashboard2.png)
 
-![alt text](images/dashboard3.png.png)
+![alt text](images/dashboard3.png)
 
-![alt text](images/dashboard4.png.png)
+![alt text](images/dashboard4.png)
 
 ## 03. Calculated columns and measures
 
 Column: film_duration
 
-![alt text](images/film_duration.png.png)
+![alt text](images/film_duration.png)
 
 Column: rating_mapping
 
-![alt text](images/rating_mapping.png.png)
+![alt text](images/rating_mapping.png)
 
 Column: year_added
 
-![alt text](images/year_added.png.png)
+![alt text](images/year_added.png)
 
 Measure: year_added
 
-![alt text](images/total_amount.png.png)
+![alt text](images/total_amount.png)
 
 Measure: film_duration_avg
 
-![alt text](images/film_duration_avg.png.png)
+![alt text](images/film_duration_avg.png)
 
 Measure: avg_added_x_year
 
-![alt text](images/avg_added_x_year.png.png)
+![alt text](images/avg_added_x_year.png)
