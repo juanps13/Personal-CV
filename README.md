@@ -4,7 +4,7 @@ Welcome to my data analytics personal CV. This is a summary of some of the proje
 
 ## About me
 
-Hi, I'm Juan Pablo, I'm from Buenos Aires, Argentina. I have a bachelor in economics in UCA (Argentina) and curretly finishing my MBA in UTDT (Argentina).
+Hi, I'm Juan Pablo, I'm from Buenos Aires, Argentina. I have a bachelor in economics in UCA (Argentina) and currently finishing my MBA in UTDT (Argentina).
 
 [LinkedIn Page](https://www.linkedin.com/in/juan-pablo-fernandez-37b253110)
 
