@@ -31,3 +31,10 @@ The project focused on evaluating the impact of a promotional campaign within a 
 ![Machine Learning](https://img.shields.io/badge/machine_learning-black?style=for-the-badge&logo=excel)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+### [Netflix dashboard](https://github.com/juanps13/Personal-CV/tree/main/03.%20Netflix%20dashboard)
+
+This interactive dashboard displays data of the films and tv shows available in netflix as of 2021.
+
+**Technology:**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
